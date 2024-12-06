@@ -42,3 +42,7 @@ h1{
   margin: 40px auto; 
   padding: 20px;
 }
+
+a:hover {
+  color: #cf9eff;
+}
