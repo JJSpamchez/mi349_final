@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><title>css</title></head>
-html { /* 1 */
-  background: #47008d;
+html { 
 }
 
 body { 
@@ -10,16 +9,16 @@ body {
   margin: 40px;
   padding: 40px;
   color: #242424;
-  border-top: 10px solid #47008d;
-  background: #cf9eff;
+  border-top: 10px solid #ab9d60;
+  background: #1f2036;
 }
 
 header { 
   position: sticky;
   top: 0;  
-  background-color: #cf9eff;  
+  background-color: #1f2036;  
   padding: 10px 0;
-  border-bottom: 4px solid #47008d;
+  border-bottom: 4px solid #ab9d60;
 }
 
 nav ul { 
@@ -44,5 +43,5 @@ h1{
 }
 
 a:hover {
-  color: #cf9eff;
+  color: #ab9d60;
 }
