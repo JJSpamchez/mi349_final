@@ -42,6 +42,10 @@ h1{
   padding: 20px;
 }
 
+a {
+  color: #728089;
+  font-weight: bold;
+}
 a:hover {
   color: #dcb94b;
 }
