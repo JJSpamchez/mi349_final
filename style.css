@@ -19,6 +19,7 @@ header {
   background-color: #0d141e;  
   padding: 10px 0;
   border-bottom: 4px solid #dcb94b;
+  align-items: center;
 }
 
 nav ul { 
