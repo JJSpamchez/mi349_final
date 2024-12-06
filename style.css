@@ -46,6 +46,9 @@ h1{
 a {
   color: #9b651f;
   font-weight: bold;
+  list-style: none;
+  display: flex;
+  justify-content: center;
 }
 a:hover {
   color: #dcb94b;
