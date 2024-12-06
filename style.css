@@ -13,3 +13,20 @@ body { /* 2 */
   border-top: 10px solid #47008d;
   background: #cf9eff;
 }
+
+header { /* 21 */
+  position: sticky;
+  top: 0;  
+  background-color: #cf9eff;  
+  padding: 10px 0;
+  border-bottom: 4px solid #47008d;
+}
+
+nav ul { /* 22 */
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li { /* 23 */
+  margin: 0 15px;      
+}
