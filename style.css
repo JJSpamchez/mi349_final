@@ -8,17 +8,17 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 40px;
   padding: 40px;
-  color: #242424;
-  border-top: 10px solid #ab9d60;
-  background: #1f2036;
+  color: #707a84;
+  border-top: 10px solid #dcb94b;
+  background: #0d141e;
 }
 
 header { 
   position: sticky;
   top: 0;  
-  background-color: #1f2036;  
+  background-color: #0d141e;  
   padding: 10px 0;
-  border-bottom: 4px solid #ab9d60;
+  border-bottom: 4px solid #dcb94b;
 }
 
 nav ul { 
@@ -43,5 +43,5 @@ h1{
 }
 
 a:hover {
-  color: #ab9d60;
+  color: #dcb94b;
 }
