@@ -30,3 +30,10 @@ nav ul { /* 22 */
 nav ul li { /* 23 */
   margin: 0 15px;      
 }
+
+title {
+  text-align: center;
+  font-family: Arial, sans-serif; /* Change font if needed */
+  margin: 20px auto; /* Adds consistent spacing around titles */
+  color: #47008d; /* Optional: Title color */
+}
