@@ -59,7 +59,7 @@ a:hover {
   color: #dcb94b;
 }
 
-p {
+.bio {
   border-bottom: 2px dotted #ddb84e; 
   padding-bottom: 10px; 
 }
