@@ -19,8 +19,6 @@ header {
   background-color: #0d141e;  
   padding: 10px 0;
   border-bottom: 4px solid #dcb94b;
-  align-items: center;
-  padding: 10px 20px;
 }
 
 nav ul { 
@@ -51,8 +49,6 @@ a {
   font-weight: bold;
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding: 10px 20px;
 }
 ul {
   list-style: none; /* I'm really trying to get rid of these bullet points */
