@@ -1,7 +1,15 @@
-body {
-    margin: 0;
-    font-family: 'Arial', sans-serif;
-    background-color: #cf9eff;
-    color: #333;
-    line-height: 1.6;
+<!DOCTYPE html>
+<html lang="en">
+<head><title>css</title></head>
+html { /* 1 */
+  background: #47008d;
+}
+
+body { /* 2 */
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 40px;
+  padding: 40px;
+  color: #242424;
+  border-top: 10px solid #47008d;
+  background: #cf9eff;
 }
