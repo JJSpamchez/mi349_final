@@ -65,6 +65,14 @@ a:hover {
   color: #dcb94b;
 }
 
+.itch {
+  color: #9b651f;
+}
+
+.itch:hover {
+  color: #dcb94b;
+}
+
 /* @media CSS # 1. (tablets and phones) */
 @media (max-width: 768px) {
   body {
