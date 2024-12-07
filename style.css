@@ -139,3 +139,22 @@ a:hover {
 .interests2-text {
   padding-bottom: 10px;
 }
+
+.interests3 {
+  display: flex;
+  align-items: center; 
+  border-bottom: 2px dotted #ddb84e;
+  padding-bottom: 20px;
+
+  padding-top: 20px;
+}
+
+.interests3-image {
+  width: 30%;  
+  height: auto;
+  margin-left: 20px;  
+}
+
+.interests3-text {
+  padding-bottom: 10px;
+}
