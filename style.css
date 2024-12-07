@@ -85,7 +85,8 @@ a:hover {
 
 .intro {
   display: flex;
-  align-items: flex-start; 
+  align-items: center; 
+  border-bottom: 2px dotted #ddb84e;
 }
 
 .intro-image {
@@ -95,6 +96,5 @@ a:hover {
 }
 
 .intro-text {
-  border-bottom: 2px dotted #ddb84e; 
   padding-bottom: 10px;
 }
