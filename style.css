@@ -67,3 +67,20 @@ a:hover {
   border-bottom: 2px dotted #ddb84e; 
   padding-bottom: 10px; 
 }
+
+/* @media CSS # 1. (tablets and phones) */
+@media (max-width: 768px) {
+  body {
+    margin: 20px;
+    padding: 10px; 
+  }
+
+  /* @media CSS # 2. (mobile phones) */
+@media (max-width: 480px) {
+  p {
+    font-size: 0.9em; 
+  }
+
+  h1 {
+    font-size: 1.5em; 
+  }
