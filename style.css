@@ -37,7 +37,7 @@ nav ul li {
 h1{ 
   font-size: 3em;
   margin: 0;
-  margin-top: 20px;
+  margin-top: 30px;
   color: #9b651f;
   margin-bottom: 30px;
   text-align: center;
@@ -88,6 +88,8 @@ a:hover {
   align-items: center; 
   border-bottom: 2px dotted #ddb84e;
   padding-bottom: 20px;
+  border-top: 2px dotted #ddb84e;
+  padding-top: 20px;
 }
 
 .intro-image {
