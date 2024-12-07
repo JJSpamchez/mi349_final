@@ -83,8 +83,10 @@ a:hover {
 
   h1 {
     font-size: 1.5em; 
-  }
-  .intro-image {
+  } 
+}
+  
+.intro-image {
   float: left;
   width: 30%;
   height: auto;
