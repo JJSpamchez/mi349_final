@@ -86,7 +86,7 @@ a:hover {
   }
   .intro-image {
   float: left;
-  max-width: 100%;
+  width: 30%;
   height: auto;
   display: block;
   margin: 20px 0;
