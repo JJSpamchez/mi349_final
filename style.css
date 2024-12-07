@@ -87,6 +87,7 @@ a:hover {
   display: flex;
   align-items: center; 
   border-bottom: 2px dotted #ddb84e;
+  padding-bottom: 20px;
 }
 
 .intro-image {
