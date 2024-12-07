@@ -101,3 +101,22 @@ a:hover {
 .intro-text {
   padding-bottom: 10px;
 }
+
+.interests {
+  display: flex;
+  align-items: center; 
+  border-bottom: 2px dotted #ddb84e;
+  padding-bottom: 20px;
+  border-top: 2px dotted #ddb84e;
+  padding-top: 20px;
+}
+
+.interests-image {
+  width: 30%;  
+  height: auto;
+  margin-right: 20px;  
+}
+
+.interests-text {
+  padding-bottom: 10px;
+}
