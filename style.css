@@ -74,7 +74,7 @@ a:hover {
     margin: 20px;
     padding: 10px; 
   }
-
+}
   /* @media CSS # 2. (mobile phones) */
 @media (max-width: 480px) {
   p {
