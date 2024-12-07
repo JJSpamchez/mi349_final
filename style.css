@@ -63,11 +63,6 @@ a:hover {
   color: #dcb94b;
 }
 
-.intro-text {
-  border-bottom: 2px dotted #ddb84e; 
-  padding-bottom: 10px; 
-}
-
 /* @media CSS # 1. (tablets and phones) */
 @media (max-width: 768px) {
   body {
@@ -85,11 +80,21 @@ a:hover {
     font-size: 1.5em; 
   } 
 }
-  
+
+.intro {
+  display: flex;
+  align-items: flex-start; 
+}  
+
 .intro-image {
   float: left;
   width: 30%;
   height: auto;
   display: block;
   margin: 20px 0;
+}
+
+.intro-text {
+  border-bottom: 2px dotted #ddb84e; 
+  padding-bottom: 10px; 
 }
