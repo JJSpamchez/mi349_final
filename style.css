@@ -84,17 +84,15 @@ a:hover {
 .intro {
   display: flex;
   align-items: flex-start; 
-}  
+}
 
 .intro-image {
-  float: left;
-  width: 30%;
+  width: 30%;  
   height: auto;
-  display: block;
-  margin: 20px 0;
+  margin-right: 20px;  
 }
 
 .intro-text {
   border-bottom: 2px dotted #ddb84e; 
-  padding-bottom: 10px; 
+  padding-bottom: 10px;
 }
