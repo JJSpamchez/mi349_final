@@ -63,7 +63,7 @@ a:hover {
   color: #dcb94b;
 }
 
-p {
+.intro-text {
   border-bottom: 2px dotted #ddb84e; 
   padding-bottom: 10px; 
 }
